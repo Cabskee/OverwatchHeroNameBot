@@ -1,0 +1,4 @@
+.env
+Python-*
+settings.py
+__pycache__
